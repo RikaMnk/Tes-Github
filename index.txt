@@ -3,4 +3,5 @@
 
 			" Halllooo Rika Apa Kabar haha ?"
 <center> Apa yang kamu sedang kerjakan ? </center>
+<bold> Whats upp?? </bold>
 </html>
