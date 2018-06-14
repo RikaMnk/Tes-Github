@@ -1,6 +1,6 @@
 <html>
-<title> Welcome To Github <title>
+<title> Welcome To Github </title>
 
 			" Halllooo Rika Apa Kabar haha ?"
-
+<center> Apa yang kamu sedang kerjakan ? </center>
 </html>
