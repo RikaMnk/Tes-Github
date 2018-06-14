@@ -1,12 +1,3 @@
 <html>
 <title> Welcome To Github </title>
 
-			" Halllooo Rika Apa Kabar haha ?"
-<center> Apa yang kamu sedang kerjakan ? </center>
-<<<<<<< HEAD
-<bold> Whats upp?? </bold>
-</html>
-=======
-<yayyy>
-</html>
->>>>>>> origin/master
